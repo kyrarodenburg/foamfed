@@ -4,6 +4,9 @@
     --main-body-color: white;
 }
 
+
+/* dit is de basis */
+
 html {
     width: 100%;
     margin-right: 0;
@@ -14,6 +17,10 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+main {
+    margin-top: 2em;
 }
 
 p {
@@ -41,7 +48,7 @@ ul {
 }
 
 
-/* eerste nav*/
+/* eerste navigation*/
 
 header nav:nth-of-type(1) {
     background-color: var(--main-nav-color);
@@ -193,7 +200,7 @@ nav:nth-of-type(1) ul:nth-of-type(2) a img {
 }
 
 
-/* tweede nav */
+/* tweede navigation */
 
 nav:nth-of-type(2) {
     display: flex;
@@ -241,7 +248,10 @@ nav:nth-of-type(2) ul li a:hover {
 }
 
 
-/* "nu te zien" */
+/* section  1 */
+
+
+/* "nu te zien h1" */
 
 .sideh1 {
     max-width: 10%;
@@ -257,14 +267,10 @@ nav:nth-of-type(2) ul li a:hover {
     font-weight: lighter;
 }
 
-main {
-    margin-top: 2em;
-}
 
+/* article: Liz Johnson*/
 
-/* eerste content*/
-
-section:nth-of-type(1) div:nth-of-type(1) a {
+section:nth-of-type(1) div:nth-of-type(1) article a {
     background-color: black;
     color: black;
     box-sizing: border-box;
@@ -346,7 +352,10 @@ section:nth-of-type(1) div:nth-of-type(1) p:nth-of-type(2) {
 }
 
 
-/* tweede content en derde content */
+/* article "Shigeru Onishi" & "article Alexandra Rose Howland"
+& article "15 jaar talent uit de collectie" & article "zoom in"
+
+*/
 
 div:nth-of-type(2) article:nth-of-type(1),
 div:nth-of-type(2) article:nth-of-type(2),
@@ -443,7 +452,7 @@ div:nth-of-type(3) article:nth-of-type(2) a p:nth-of-type(2) {
 }
 
 
-/* vierde section eerste content*/
+/* article "ontdek" */
 
 div:nth-of-type(4) {
     background-color: var(--main-body-color);
@@ -494,7 +503,7 @@ div:nth-of-type(4) article:nth-of-type(1) img {
 }
 
 
-/* vierde section tweede content */
+/* article "Foam talent 2021" */
 
 div:nth-of-type(4) article:nth-of-type(2) {
     width: 100%;
@@ -572,7 +581,7 @@ div:nth-of-type(4) article:nth-of-type(2) a p:nth-of-type(2) {
 }
 
 
-/* vierde section derde content */
+/* article "bekijk het volledige programma"  */
 
 div:nth-of-type(4) article:nth-of-type(3) a {
     display: flex;
@@ -596,7 +605,7 @@ div:nth-of-type(4) article:nth-of-type(3) img {
 }
 
 
-/* vijfde section eerste content */
+/* article "Out now: Foam Magazine"*/
 
 div:nth-of-type(5) {
     background-color: #96C31E;
@@ -675,7 +684,10 @@ div:nth-of-type(5) article:nth-of-type(1) a p:nth-of-type(2) {
 }
 
 
-/* 6e section eerste content */
+/* tweede section */
+
+
+/*article "help mee" */
 
 section:nth-of-type(2) {
     margin: 0;
@@ -751,7 +763,7 @@ section:nth-of-type(2) div:nth-of-type(1) article:nth-of-type(1) a:nth-of-type(3
 }
 
 
-/* 7e section (laatste content) */
+/* article "Bezoek foam vandaag" */
 
 section:nth-of-type(3) article {
     position: relative;
@@ -809,7 +821,7 @@ section:nth-of-type(3) article p {
 }
 
 
-/* tweede pagina */
+/* tweede html pagina */
 
 section>img {
     display: flex;
@@ -942,7 +954,7 @@ footer>p {
 /* de desktop code */
 
 
-/* eerste content groot scherm*/
+/* article: Liz Johnson*/
 
 @media (min-width:55em) {
     section:nth-of-type(1) div:nth-of-type(1) a h1 {
@@ -961,7 +973,8 @@ footer>p {
 }
 
 
-/* tweede & derde content groot scherm*/
+/*article "Shigeru Onishi" & "article Alexandra Rose Howland"
+& article "15 jaar talent uit de collectie" & article "zoom in"*/
 
 @media (min-width:55em) {
     div:nth-of-type(2),
@@ -992,7 +1005,7 @@ footer>p {
     div:nth-of-type(3) article:nth-of-type(1) a p:nth-of-type(2) {
         font-size: 0.9em;
     }
-    /* vierde section */
+    /* article "ontdek" & article "Foam talent 2021"*/
     div:nth-of-type(4) article:nth-of-type(1) p {
         font-size: 4em;
     }
@@ -1020,7 +1033,7 @@ footer>p {
 }
 
 
-/* vierde section */
+/* article "bekijk het volledige programma" */
 
 @media (min-width:55em) {
     div:nth-of-type(4) article:nth-of-type(3) {
@@ -1029,7 +1042,7 @@ footer>p {
 }
 
 
-/* vijfde secction */
+/* article "Out now: Foam Magazine" */
 
 @media (min-width:55em) {
     div:nth-of-type(5) article:nth-of-type(1) {
@@ -1048,7 +1061,10 @@ footer>p {
 }
 
 
-/* 6e section */
+/* tweede section */
+
+
+/*article "help mee" */
 
 @media (min-width:55em) {
     section:nth-of-type(2) article:nth-of-type(1) h1 {
@@ -1077,7 +1093,7 @@ footer>p {
 }
 
 
-/* 6e section groot scherm */
+/* article "bezoek foam vandaag"*/
 
 @media (min-width:55em) {
     section:nth-of-type(3) article:nth-of-type(1) h1 {
@@ -1093,7 +1109,7 @@ footer>p {
 }
 
 
-/* tweede pagina groot scherm */
+/* tweede html pagina desktop versie */
 
 @media (min-width:55em) {
     .lizjohnson {

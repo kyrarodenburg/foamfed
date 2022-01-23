@@ -232,5 +232,6 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 8. https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
 9. https://css-tricks.com/snippets/css/complete-guide-grid/
 10. https://www.w3schools.com/css/css_positioning.asp
+11. https://www.w3schools.com/js/js_loop_for.asp
 
 </details>

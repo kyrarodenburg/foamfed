@@ -9,10 +9,10 @@ var deButton = document.querySelector("button");
 
 // de tekst in de homepagina dat veranderd
 
-var veranderTekst = document.querySelector("section:nth-of-type(4) p:nth-of-type(1)")
+var veranderTekst = document.querySelector("div:nth-of-type(4) p:nth-of-type(1)")
 
 
-// Click on menu Button
+// actie menu Button
 
 hamButton.addEventListener("click", toggleHamburgerMenu);
 
