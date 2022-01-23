@@ -13,16 +13,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>details</summary>
 
 ### Auteur:
-Kyra Rodenburg (vervangen door jouw naam)
+Kyra Rodenburg
 
 #### Je startniveau:
-Rood (kies uit zwart, rood óf blauw)
+Rood 
 
 #### Je focus:
-Vooral responsive (kies uit responsive óf surface plane)
+Vooral responsive 
  
 </details>
 
