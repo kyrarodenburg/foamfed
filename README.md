@@ -189,7 +189,7 @@ Ik heb vooral gevraagd naar vh en hoe je iets goed responsive kan maken.
 
 ### Stand van zaken
 
-dit ging goed:
+
 het stijlen ging me goed af en ik vond het erg leuk om te doen. De site was nogal een uitdaging omdat het een hele interactieve site was wat niet altijd het zelfde was. 
 Ik heb veel geleerd maar bepaalde onderdelen maken duurde langer dan gewenst. Door deze reden ga ik voor een herkansing omdat ik niet genoeg tijd had om mijn site af te maken. 
 
