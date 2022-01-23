@@ -80,20 +80,14 @@ De basiskennis van html en css is een beetje verwaterd. Ik ben vooral bezig met 
 ### Agenda voor meeting
 Deze week hebben we niks besloten met het groepje en heeft iedereen individuele vragen gesteld
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Ik heb tijdens de meeting gevraagd naar grid. Ik vind dit nog lastig en moet diet vaker oefenen.
 
+ to do na de les:
 - kijken naar de grid oefeningen
-- list vervangen voor grid
-- nog een punt
-- ...
+- list/div vervangen voor grid
+
 
 </details>
 
@@ -115,7 +109,7 @@ Problemen waar ik tegen aan loop:
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
+We hebben niks besproken maar ik heb mijn eigen vragenlijst gemaakt.
 
 |Kyra               | student 2          | student 3    | student 4        |
 | ---               | ---                | ---          | ---              |
@@ -125,8 +119,9 @@ samen met je groepje opstellen
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+In de meeting hebben we vooral gekeken naar de hamburger menu en heb ik hiervan aantekeningen gemaakt.
 
+ to do:
 - P probleem oplossen
 - toegankelijkheidstest 
 
@@ -176,8 +171,9 @@ we hebben niks besproken deze week maar ik heb wel mijn eigen punten genoteerd
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
+Ik heb vooral gevraagd naar vh en hoe je iets goed responsive kan maken. 
 
+ to do:
 -  de sections vervangen met div
 -  list vervangen door grid 
 -  de a vervangen voor een button
@@ -209,6 +205,7 @@ Ik heb veel geleerd maar bepaalde onderdelen maken duurde langer dan gewenst. Do
 
 ### Screenshot(s)
 
+ dit is de homepagina 
 <img src="images/homefed.png" width="375px" alt="p">
 
 </details>
@@ -219,8 +216,6 @@ Ik heb veel geleerd maar bepaalde onderdelen maken duurde langer dan gewenst. Do
 
 <details open>
 <summary>bronnenlijst</summary>
-
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. vw bron: https://css-tricks.com/how-do-you-do-max-font-size-in-css/#:~:text=CSS%20doesn't%20have%20max,font%2Dsize%3A%2010vw%3B%20.
 2. https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
