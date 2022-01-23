@@ -133,7 +133,7 @@ In de meeting hebben we vooral gekeken naar de hamburger menu en heb ik hiervan 
 ## Toegankelijkheidstest (week 4) 
 
 <details>
-<summary>uweek 4</summary>
+<summary>week 4</summary>
 
 ### Bevindingen
 - de tab functie werkt
