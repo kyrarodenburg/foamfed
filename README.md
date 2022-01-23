@@ -205,7 +205,7 @@ Ik heb veel geleerd maar bepaalde onderdelen maken duurde langer dan gewenst. Do
 
 ### Screenshot(s)
 
- dit is de homepagina 
+ 
 <img src="images/homefed.png" width="375px" alt="p">
 
 </details>
